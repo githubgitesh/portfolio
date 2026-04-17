@@ -1,9 +1,9 @@
 const typingText = document.getElementById("typing");
 const roles = [
-  "Full Stack Developer",
-  "Java Developer",
-  "MERN Engineer",
-  "Tech Enthusiast",
+  "Data Analyst",
+  "ML Engineer",
+  "Power BI Developer",
+  "Python Expert",
 ];
 let i = 0,
   j = 0,
